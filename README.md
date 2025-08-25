@@ -1,6 +1,6 @@
 # Vite Module Federation POC (Web)
 
-A proof of concept of a toast manager made with React.js and TypeScript.
+A proof of concept demonstrating module federation using React.js and TypeScript.
 
 ## Technologies
 
